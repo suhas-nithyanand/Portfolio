@@ -91,7 +91,7 @@
                 <div class="text-left" ><h5><b>Zero Energy Networks Lab, under Dr. T V Prabhakar</b></h5>
 				
 			<div class = "small"> <ul >
-			<li>Gesture Recognition using Hidden markov model and Neural Networks, for hand wash recognition using Leap sensor.
+			<li>Gesture Recognition using Neural Networks, for hand wash recognition using Leap sensor.
 			<li>Developed and implemented localization algorithms for detection of passive RFID tags using a mobile RFID reader using python.</ul>  </div>
  ​			  	<h5><b>Networks lab, under Dr. Malati Hegde</b></h5>
 			<ul><li><div class = "small">Developed a networking software which manages multiple 3G network connections to harness uneven cellular radio coverage using Dbus API’s on linux platform. </ul> </div>
