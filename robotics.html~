@@ -14,31 +14,28 @@
     <![endif]-->
   </head>
   <body>
-    <div class="container">
+   <div class="container">
       <div class="row">
         <div class="col-xs-12">
 	  <a class="text-center" style = "color:#31427E;" href="index.html"><h2><b>SUHAS NITHYANANDAPPA</b></h2></a>
           <div id="photo-header" class="text-left">
 	  
-             <!-- PHOTO (AVATAR) -->
+            <!-- PHOTO (AVATAR) -->
             <div id="photo">
               <img src="img/suhasn.jpg" alt="avatar">
-            </div>
+            </div> 
+	</div> <!--photo header-->
+	
          <div class = "small_bold">  
-	 <nav class="navbar navbar-inverse" style = "margin-top: 20px">      
-         <div id="navbar" class="collapse navbar-collapse">
-	 <div class="navbar-header">
+	 <nav class="navbar navbar-inverse" style = "margin-top: 20px">       
          <ul class="nav navbar-nav" style = "font-size: 1.5em">
 	   
             <li class="active"><a href="index.html">Home</a></li>
 	    <li><a href="portfolio.html">Portfolio</a></li>
             <li><a href="projects.html">Projects</a></li>
-            <li><a href="#resume">Resume</a></li>
+            <li><a href="resume.pdf">Resume</a></li>
           </ul>
-	 </div> <!-- bold-->
-        </div><!--/.nav-collapse -->
-	</div>
-     	</nav>
+	  	</nav>
     	
 	<div class = small >
 	<a style = "color:#000000;" >Projects have been classified into following categories :</a>
@@ -58,8 +55,22 @@
 	<div class ="row" style="margin-top:25px;" > </div>
 	
 	 <!-- Projects -->
+
+
             <div class="box">
             <div class="text-left">
+
+
+		
+	<div class="job clearfix">
+                 <div class="col-xs-9">
+                <div class="big_bold">Robotic arm using ROS and Arduino</div>
+                <div class="small">Developed a working prototype of a robotic arm using AX-12 servo motors. The controling mechanism for the arm was developed using Robot Operating System (ROS) framework.</div>
+              </div>
+            </div>
+
+
+
             <div class="job clearfix">
                  <div class="col-xs-9">
                 <div class="big_bold">Autonomous Maze solver</div>

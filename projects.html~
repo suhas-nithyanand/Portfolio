@@ -20,25 +20,22 @@
 	  <a class="text-center" style = "color:#31427E;" href="index.html"><h2><b>SUHAS NITHYANANDAPPA</b></h2></a>
           <div id="photo-header" class="text-left">
 	  
-              <!-- PHOTO (AVATAR) -->
+            <!-- PHOTO (AVATAR) -->
             <div id="photo">
               <img src="img/suhasn.jpg" alt="avatar">
-            </div>
+            </div> 
+	</div> <!--photo header-->
+	
          <div class = "small_bold">  
 	 <nav class="navbar navbar-inverse" style = "margin-top: 20px">       
-         <div id="navbar" class="collapse navbar-collapse">
-	 <div class="navbar-header">
          <ul class="nav navbar-nav" style = "font-size: 1.5em">
 	   
-            <li ><a href="index.html">Home</a></li>
+            <li class="active"><a href="index.html">Home</a></li>
 	    <li><a href="portfolio.html">Portfolio</a></li>
-            <li class="active"><a href="projects.html">Projects</a></li>
-            <li><a href="#resume">Resume</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="resume.pdf">Resume</a></li>
           </ul>
-	 </div> <!-- bold-->
-        </div><!--/.nav-collapse -->
-	</div>
-     	</nav>
+	  	</nav>
     	
 	<a style = "color:#000000;" ><h5>Projects have been classified into following categories :</h5></a>
 	
@@ -135,7 +132,7 @@ The backend framework was developed using PHP, Python and Mysql</div>
 
 		<footer>
 		<div class="copyright">
-		<p style="margin-top:25px; margin-bottom:25px;"><span><h4>&copy; www.suhasn.com 2016 All right reserved.</h4></span></p>
+		<p style="margin-top:25px; margin-bottom:25px;"><span><h4>&copy; www.suhasn.com 2016 All rights reserved.</h4></span></p>
 		</div>
 		</footer>
 	     </div> <!--container-->

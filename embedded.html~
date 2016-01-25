@@ -20,25 +20,22 @@
 	  <a class="text-center" style = "color:#31427E;" href="index.html"><h2><b>SUHAS NITHYANANDAPPA</b></h2></a>
           <div id="photo-header" class="text-left">
 	  
-             <!-- PHOTO (AVATAR) -->
+            <!-- PHOTO (AVATAR) -->
             <div id="photo">
               <img src="img/suhasn.jpg" alt="avatar">
-            </div>
+            </div> 
+	</div> <!--photo header-->
+	
          <div class = "small_bold">  
-	  <nav class="navbar navbar-inverse" style = "margin-top: 20px">        
-         <div id="navbar" class="collapse navbar-collapse">
-	 <div class="navbar-header">
+	 <nav class="navbar navbar-inverse" style = "margin-top: 20px">       
          <ul class="nav navbar-nav" style = "font-size: 1.5em">
 	   
             <li class="active"><a href="index.html">Home</a></li>
 	    <li><a href="portfolio.html">Portfolio</a></li>
             <li><a href="projects.html">Projects</a></li>
-            <li><a href="#resume">Resume</a></li>
+            <li><a href="resume.pdf">Resume</a></li>
           </ul>
-	 </div> <!-- bold-->
-        </div><!--/.nav-collapse -->
-	</div>
-     	</nav>
+	  	</nav>
     	
 	<a style = "color:#000000;" ><h5>Projects have been classified into following categories :</h5></a>
 	
@@ -64,7 +61,7 @@
 	<div class="job clearfix">
                  <div class="col-xs-9">
                 <div class="big_bold">PHOENIX : Quadcopter platform using Arduino </div>
-                <div class="small">A quadcopter system was developed with basic sub-systems. A complementary filter was developed for position estimation using data obtained from gyroscope and accelerometer. A real time communication system was built using Xbee Wi-Fi module utilizing on board network stack.
+                <div class="small">A quadcopter platform was developed with basic sub-systems. A complementary filter was developed for position estimation using data obtained from gyroscope and accelerometer. A real time communication system was built using Xbee Wi-Fi module utilizing on board network stack.
 </div>
               </div>
             </div>

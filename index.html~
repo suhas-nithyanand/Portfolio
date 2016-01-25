@@ -27,7 +27,7 @@
 	</div> <!--photo header-->
 	
          <div class = "small_bold">  
-	 <nav class="navbar navbar-inverse" >       
+	 <nav class="navbar navbar-inverse" style = "margin-top: 20px">       
          <ul class="nav navbar-nav" style = "font-size: 1.5em">
 	   
             <li class="active"><a href="index.html">Home</a></li>
