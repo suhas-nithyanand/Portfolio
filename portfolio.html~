@@ -30,8 +30,8 @@
 	 <nav class="navbar navbar-inverse" style = "margin-top: 20px">       
          <ul class="nav navbar-nav" style = "font-size: 1.5em">
 	   
-            <li class="active"><a href="index.html">Home</a></li>
-	    <li><a href="portfolio.html">Portfolio</a></li>
+            <li ><a href="index.html">Home</a></li>
+	    <li class="active"><a href="portfolio.html">Portfolio</a></li>
             <li><a href="projects.html">Projects</a></li>
             <li><a href="resume.pdf">Resume</a></li>
           </ul>
