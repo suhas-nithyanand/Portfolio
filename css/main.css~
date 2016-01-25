@@ -37,7 +37,7 @@ CONTAINER
 PHOTO (AVATAR)
 *******************************************/
 #photo-header{
-  margin-top: -140px;
+  margin-top: -85px;
 }
 #photo{
   width: 160px;
@@ -102,7 +102,7 @@ SUHAS CUSTOM
 		 font-weight: bold; }
 
 .copyright { text-align: center;
-	      margin-top:75px;
+	      margin-top:65px;
 	     margin-bottom:25px;}
 
 .vid {
