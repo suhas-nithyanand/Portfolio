@@ -36,6 +36,7 @@
             <li><a href="resume.pdf">Resume</a></li>
           </ul>
 	  	</nav>
+	</div> <!--small bold-->
     	
 	<div class = small >
 	<a style = "color:#000000;" >Projects have been classified into following categories :</a>
@@ -126,27 +127,40 @@
 	<div class="col-sm-4"> <!--divsion of coulmns 5-->
 	<!--------------------------- SKILLS -------------------->
 	 	
-          <div class="box">
-            <h2>Skills</h2>
-            <div class="skills">
-	       <div class="item-skills" data-percent="1.0">Python</div>
-              <div class="item-skills" data-percent="0.90">HTML / CSS / JS</div>
-              <div class="item-skills" data-percent="1.0">PHP</div>
-              <div class="item-skills" data-percent=".9">MySQL</div>
-              <div class="item-skills" data-percent="0.8">C / C++</div>
-              <div class="item-skills" data-percent="0.6">Java</div>
-		<div class="item-skills" data-percent="0.9">Linux</div>
-		<div class="item-skills" data-percent="0.9">Matlab</div>
-		<div class="item-skills" data-percent="0.4">Android</div>
-              <div class="skills-legend clearfix">
-                <div class="legend-left legend">Beginner</div>
-                <div class="legend-left legend"><span>Proficient</span></div>
-                <div class="legend-right legend"><span>Expert</span></div>
-                <div class="legend-right legend">Master</div>
-              </div>
-            </div>
+       	
+         <div  style = "font-size: 1.3em">   
+
+
+          <div class="box" >
+          <a class="text-left" style = "color:#31427E;"><h4><b>SOFTWARE SKILLS:</b></h4></a>
+            <div class="skill_new">Python</div>
+            <div class="skill_new">HTML/ CSS/ JS</div>
+            <div class="skill_new">PHP</div>
+            <div class="skill_new">MySql</div>
+	    <div class="skill_new">C</div>
+		<div class="skill_new">C++</div>
+	    <div class="skill_new">Java</div>
+	       <div class="skill_new">Matlab / Octave</div>
+		 <div class="skill_new">Linux</div>
+		<div class="skill_new">Android</div>
           </div>
-	
+
+
+	    <div class="box" >
+          <a class="text-left" style = "color:#31427E;"><h4><b>HARDWARE PLATFORMS:</b></h4></a>
+	     <div class="skill_new">Turtlebot</div>
+            <div class="skill_new">Arduino </div>
+            <div class="skill_new">Raspberry Pi</div>
+            <div class="skill_new">Mbed</div>
+            <div class="skill_new">Xbee RF/WIFI</div>
+	    <div class="skill_new">Kinect sensor</div>
+	    <div class="skill_new">Leap Sensor</div>
+	       <div class="skill_new">Inertial Measurement Unit </div>
+		
+		
+          </div>
+
+	</div>
 	<!--------------------------- SKILLS-CLOSE -------------------------->
 
     	 </div> <!--divsion of coulmns 5-->
