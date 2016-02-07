@@ -40,8 +40,8 @@ PHOTO (AVATAR)
   margin-top: -140px;
 }
 #photo{
-  width: 160px;
-  height: 160px;
+ max-width: 100%;
+    height: auto;
   border-radius: 50%;
   overflow: hidden;
   padding: 5px;

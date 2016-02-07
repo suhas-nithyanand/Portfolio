@@ -392,15 +392,15 @@ SKILL NEW DESIGN
   font-size: 1.2em;
   font-weight: 700;
 }
-/*.skill_new:before{*/
-/*  content: "\f067";*/
-/*  font-family: FontAwesome;*/
-/*  font-style: normal;*/
-/*  font-weight: normal;*/
-/*  position: absolute;*/
-/*  top: 6px;*/
-/*  left: 7px;*/
-/*}*/
+.skill_new:before{
+  content: "\f067";
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  position: absolute;
+  top: 6px;
+  left: 7px;
+}
 
 
 /*******************************************
