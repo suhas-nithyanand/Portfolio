@@ -82,9 +82,9 @@
               </div>
             </div>
 
-	<div role="presentation" class="big_bold"><a> Web Applications </a></div>
+	<div role="presentation" class="big_bold" ><a> Web Applications </a></div>
 	
-	 <div class="job clearfix">
+	 <div class="job clearfix" style = "margin-top: 20px">
                  <div class="col-xs-9">
                 <div class="big_bold">Droolhub</div>
                 <div class="small">A social networking android app for foodies where users find the best food dishes in a given locality.
